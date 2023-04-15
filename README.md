@@ -1,2 +1,2 @@
 # Projeto-Crude-API-rest-full
-Projeto base de um API rest full com node.js. mongod e mongose
+Projeto base de uma API rest full com node.js. mongod e mongose
